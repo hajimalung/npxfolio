@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/npxfolio/static/css/main.1be2e018.css",
-    "main.js": "/npxfolio/static/js/main.67498ceb.js",
+    "main.js": "/npxfolio/static/js/main.cf438f31.js",
     "static/js/453.1407b060.chunk.js": "/npxfolio/static/js/453.1407b060.chunk.js",
     "static/media/bright_profile.jpg": "/npxfolio/static/media/bright_profile.252cd422174d07a6c23b.jpg",
     "static/media/GitHub.svg": "/npxfolio/static/media/GitHub.3c903c66b2c5334c8c0b80567c4ea422.svg",
     "index.html": "/npxfolio/index.html",
     "static/media/LinkedIn.svg": "/npxfolio/static/media/LinkedIn.15f0337078f13db400acab3639711ec7.svg",
     "main.1be2e018.css.map": "/npxfolio/static/css/main.1be2e018.css.map",
-    "main.67498ceb.js.map": "/npxfolio/static/js/main.67498ceb.js.map",
+    "main.cf438f31.js.map": "/npxfolio/static/js/main.cf438f31.js.map",
     "453.1407b060.chunk.js.map": "/npxfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1be2e018.css",
-    "static/js/main.67498ceb.js"
+    "static/js/main.cf438f31.js"
   ]
 }
